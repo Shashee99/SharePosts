@@ -1,0 +1,1 @@
+Share post is a Simple Social media platform people can join and share posts.
